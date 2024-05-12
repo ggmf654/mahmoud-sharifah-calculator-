@@ -1,0 +1,31 @@
+F:\ali\calculator. mahmoud\calculator. mahmoud\bin\Debug\calculator.mahmoud.exe
+F:\ali\calculator. mahmoud\calculator. mahmoud\bin\Debug\calculator.mahmoud.pdb
+F:\ali\calculator. mahmoud\calculator. mahmoud\obj\x86\Debug\calculator.mahmoud.Form1.resources
+F:\ali\calculator. mahmoud\calculator. mahmoud\obj\x86\Debug\calculator.mahmoud.Properties.Resources.resources
+F:\ali\calculator. mahmoud\calculator. mahmoud\obj\x86\Debug\calculator. mahmoud.csproj.GenerateResource.Cache
+F:\ali\calculator. mahmoud\calculator. mahmoud\obj\x86\Debug\calculator.mahmoud.exe
+F:\ali\calculator. mahmoud\calculator. mahmoud\obj\x86\Debug\calculator.mahmoud.pdb
+C:\Users\ENG.Firas Moet\Desktop\mahmod broj\calculator. mahmoud\bin\Debug\calculator.mahmoud.exe
+C:\Users\ENG.Firas Moet\Desktop\mahmod broj\calculator. mahmoud\bin\Debug\calculator.mahmoud.pdb
+C:\Users\ENG.Firas Moet\Desktop\mahmod broj\calculator. mahmoud\bin\Debug\mscorlib.dll
+C:\Users\ENG.Firas Moet\Desktop\mahmod broj\calculator. mahmoud\bin\Debug\sortkey.nlp
+C:\Users\ENG.Firas Moet\Desktop\mahmod broj\calculator. mahmoud\bin\Debug\sorttbls.nlp
+C:\Users\ENG.Firas Moet\Desktop\mahmod broj\calculator. mahmoud\bin\Debug\big5.nlp
+C:\Users\ENG.Firas Moet\Desktop\mahmod broj\calculator. mahmoud\bin\Debug\bopomofo.nlp
+C:\Users\ENG.Firas Moet\Desktop\mahmod broj\calculator. mahmoud\bin\Debug\ksc.nlp
+C:\Users\ENG.Firas Moet\Desktop\mahmod broj\calculator. mahmoud\bin\Debug\prc.nlp
+C:\Users\ENG.Firas Moet\Desktop\mahmod broj\calculator. mahmoud\bin\Debug\prcp.nlp
+C:\Users\ENG.Firas Moet\Desktop\mahmod broj\calculator. mahmoud\bin\Debug\xjis.nlp
+C:\Users\ENG.Firas Moet\Desktop\mahmod broj\calculator. mahmoud\bin\Debug\normidna.nlp
+C:\Users\ENG.Firas Moet\Desktop\mahmod broj\calculator. mahmoud\bin\Debug\normnfc.nlp
+C:\Users\ENG.Firas Moet\Desktop\mahmod broj\calculator. mahmoud\bin\Debug\normnfd.nlp
+C:\Users\ENG.Firas Moet\Desktop\mahmod broj\calculator. mahmoud\bin\Debug\normnfkc.nlp
+C:\Users\ENG.Firas Moet\Desktop\mahmod broj\calculator. mahmoud\bin\Debug\normnfkd.nlp
+C:\Users\ENG.Firas Moet\Desktop\mahmod broj\calculator. mahmoud\obj\x86\Debug\calculator. mahmoud.csproj.AssemblyReference.cache
+C:\Users\ENG.Firas Moet\Desktop\mahmod broj\calculator. mahmoud\obj\x86\Debug\calculator.mahmoud.Form1.resources
+C:\Users\ENG.Firas Moet\Desktop\mahmod broj\calculator. mahmoud\obj\x86\Debug\calculator.mahmoud.Properties.Resources.resources
+C:\Users\ENG.Firas Moet\Desktop\mahmod broj\calculator. mahmoud\obj\x86\Debug\calculator. mahmoud.csproj.GenerateResource.cache
+C:\Users\ENG.Firas Moet\Desktop\mahmod broj\calculator. mahmoud\obj\x86\Debug\calculator. mahmoud.csproj.CoreCompileInputs.cache
+C:\Users\ENG.Firas Moet\Desktop\mahmod broj\calculator. mahmoud\obj\x86\Debug\calculat.EC202F5F.Up2Date
+C:\Users\ENG.Firas Moet\Desktop\mahmod broj\calculator. mahmoud\obj\x86\Debug\calculator.mahmoud.exe
+C:\Users\ENG.Firas Moet\Desktop\mahmod broj\calculator. mahmoud\obj\x86\Debug\calculator.mahmoud.pdb
